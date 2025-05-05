@@ -22,5 +22,5 @@ It uses strong AES-256 encryption with a fixed secret key.
 ملاحظة 👇🏽
 الملفات المشفرة تأخذ الامتداد .bin، والملفات المفكوكة ترجع في ملف ZIP يحتوي على الملفات الأصلية.
 # To Run it
-## pip install streamlit cryptography
-## streamlit run app.py
+### pip install streamlit cryptography
+### streamlit run app.py
